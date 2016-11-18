@@ -1,0 +1,60 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+    background-color: black;
+    position: relative;
+    text-align: center;
+
+}
+
+article {
+    width: 50em;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: monospace;
+    color: #46C236;
+    text-transform: capitalize;
+    font-weight: normal;
+}
+h2 {
+    font-size: 32px;
+    font-family: monospace;
+    color: #46C236;
+    text-transform: capitalize;
+    font-weight: normal;
+}
+p {
+    font-family: monospace;
+    font-size: 20px;
+    color: #46C236;
+
+}
+img {
+    max-width: 100%;
+}
+
+figure {
+    color: #483FCE;
+    text-align: left;
+    font-style: italic;
+}
+
+
+
+
